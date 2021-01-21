@@ -1,0 +1,10 @@
+#a {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+
+  .habahiro{
+    width: 80%;
+  }

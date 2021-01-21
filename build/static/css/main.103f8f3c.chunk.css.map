@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,GACI,YAAa,CACb,cAAe,CACf,iBACF,CAGA,UACE,SACF","file":"main.103f8f3c.chunk.css","sourcesContent":["#a {\n    display: flex;\n    flex-wrap: wrap;\n    text-align: center;\n  }\n\n\n  .habahiro{\n    width: 80%;\n  }"]}
